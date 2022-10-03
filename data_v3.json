@@ -1,0 +1,1925 @@
+[
+  {
+    "id": 0,
+    "lineType": 1,
+    "name": "高桥西",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 1
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "lineType": 1,
+    "name": "高桥",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 0
+      },
+      {
+        "cost": 1,
+        "id": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "lineType": 1,
+    "name": "梁祝",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 1
+      },
+      {
+        "cost": 1,
+        "id": 3
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "lineType": 1,
+    "name": "芦港",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 2
+      },
+      {
+        "cost": 1,
+        "id": 4
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "lineType": 1,
+    "name": "徐家漕长乐",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 3
+      },
+      {
+        "cost": 1,
+        "id": 5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "lineType": 1,
+    "name": "望春桥",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 4
+      },
+      {
+        "cost": 1,
+        "id": 6
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "lineType": 1,
+    "name": "泽民",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 5
+      },
+      {
+        "cost": 1,
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "lineType": 1,
+    "name": "大卿桥",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 6
+      },
+      {
+        "cost": 1,
+        "id": 8
+      },
+      {
+        "cost": 0,
+        "id": 89
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "lineType": 1,
+    "name": "西门口",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 7
+      },
+      {
+        "cost": 1,
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "lineType": 1,
+    "name": "鼓楼",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 8
+      },
+      {
+        "cost": 1,
+        "id": 10
+      },
+      {
+        "cost": 0,
+        "id": 40
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "lineType": 1,
+    "name": "东门口",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 9
+      },
+      {
+        "cost": 1,
+        "id": 11
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "lineType": 1,
+    "name": "江厦桥东",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 10
+      },
+      {
+        "cost": 1,
+        "id": 12
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "lineType": 1,
+    "name": "舟孟北路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 11
+      },
+      {
+        "cost": 1,
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "lineType": 1,
+    "name": "樱花公园",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 12
+      },
+      {
+        "cost": 1,
+        "id": 14
+      },
+      {
+        "cost": 0,
+        "id": 58
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "lineType": 1,
+    "name": "福明路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 13
+      },
+      {
+        "cost": 1,
+        "id": 15
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "lineType": 1,
+    "name": "世纪大道",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 14
+      },
+      {
+        "cost": 1,
+        "id": 16
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "lineType": 1,
+    "name": "海晏北路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 15
+      },
+      {
+        "cost": 1,
+        "id": 17
+      },
+      {
+        "cost": 0,
+        "id": 118
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "lineType": 1,
+    "name": "福庆北路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 16
+      },
+      {
+        "cost": 1,
+        "id": 18
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "lineType": 1,
+    "name": "盛莫路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 17
+      },
+      {
+        "cost": 1,
+        "id": 19
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "lineType": 1,
+    "name": "东环南路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 18
+      },
+      {
+        "cost": 1,
+        "id": 20
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "lineType": 1,
+    "name": "邱隘东",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 19
+      },
+      {
+        "cost": 1,
+        "id": 21
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "lineType": 1,
+    "name": "五乡",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 20
+      },
+      {
+        "cost": 1,
+        "id": 22
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "lineType": 1,
+    "name": "宝幢",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 21
+      },
+      {
+        "cost": 1,
+        "id": 23
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "lineType": 1,
+    "name": "邬隘",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 22
+      },
+      {
+        "cost": 1,
+        "id": 24
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "lineType": 1,
+    "name": "大碶",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 23
+      },
+      {
+        "cost": 1,
+        "id": 25
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "lineType": 1,
+    "name": "松花江路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 24
+      },
+      {
+        "cost": 1,
+        "id": 26
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "lineType": 1,
+    "name": "中河路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 25
+      },
+      {
+        "cost": 1,
+        "id": 27
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "lineType": 1,
+    "name": "长江路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 26
+      },
+      {
+        "cost": 1,
+        "id": 28
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "lineType": 1,
+    "name": "霞浦",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 27
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "lineType": 2,
+    "name": "栎社国际机场",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 30
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "lineType": 2,
+    "name": "栎社",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 29
+      },
+      {
+        "cost": 1,
+        "id": 31
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "lineType": 2,
+    "name": "鄞州大道",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 30
+      },
+      {
+        "cost": 1,
+        "id": 32
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "lineType": 2,
+    "name": "石碶",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 31
+      },
+      {
+        "cost": 1,
+        "id": 33
+      },
+      {
+        "cost": 0,
+        "id": 106
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "lineType": 2,
+    "name": "轻纺城",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 32
+      },
+      {
+        "cost": 1,
+        "id": 34
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "lineType": 2,
+    "name": "藕池",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 33
+      },
+      {
+        "cost": 1,
+        "id": 35
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "lineType": 2,
+    "name": "客运中心",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 34
+      },
+      {
+        "cost": 1,
+        "id": 36
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "lineType": 2,
+    "name": "丽园南路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 35
+      },
+      {
+        "cost": 1,
+        "id": 37
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "lineType": 2,
+    "name": "云霞路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 36
+      },
+      {
+        "cost": 1,
+        "id": 38
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "lineType": 2,
+    "name": "宁波火车站",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 37
+      },
+      {
+        "cost": 1,
+        "id": 39
+      },
+      {
+        "cost": 0,
+        "id": 91
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "lineType": 2,
+    "name": "城隍庙",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 38
+      },
+      {
+        "cost": 1,
+        "id": 40
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "lineType": 2,
+    "name": "鼓楼",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 39
+      },
+      {
+        "cost": 1,
+        "id": 41
+      },
+      {
+        "cost": 0,
+        "id": 9
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "lineType": 2,
+    "name": "外滩大桥",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 40
+      },
+      {
+        "cost": 1,
+        "id": 42
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "lineType": 2,
+    "name": "正大路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 41
+      },
+      {
+        "cost": 1,
+        "id": 43
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "lineType": 2,
+    "name": "倪家堰",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 42
+      },
+      {
+        "cost": 1,
+        "id": 44
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "lineType": 2,
+    "name": "压赛堰",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 43
+      },
+      {
+        "cost": 1,
+        "id": 45
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "lineType": 2,
+    "name": "大通桥",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 44
+      },
+      {
+        "cost": 1,
+        "id": 46
+      },
+      {
+        "cost": 0,
+        "id": 54
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "lineType": 2,
+    "name": "孔浦",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 45
+      },
+      {
+        "cost": 1,
+        "id": 47
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "lineType": 2,
+    "name": "路林",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 46
+      },
+      {
+        "cost": 1,
+        "id": 48
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "lineType": 2,
+    "name": "三官堂",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 47
+      },
+      {
+        "cost": 1,
+        "id": 49
+      },
+      {
+        "cost": 0,
+        "id": 123
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "lineType": 2,
+    "name": "宁波大学",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 48
+      },
+      {
+        "cost": 1,
+        "id": 50
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "lineType": 2,
+    "name": "清水浦",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 49
+      },
+      {
+        "cost": 1,
+        "id": 51
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "lineType": 2,
+    "name": "五里牌",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 50
+      },
+      {
+        "cost": 1,
+        "id": 52
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "lineType": 2,
+    "name": "枫园",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 51
+      },
+      {
+        "cost": 1,
+        "id": 53
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "lineType": 2,
+    "name": "聪园路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 52
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "lineType": 3,
+    "name": "大通桥",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 55
+      },
+      {
+        "cost": 0,
+        "id": 45
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "lineType": 3,
+    "name": "中兴大桥南",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 54
+      },
+      {
+        "cost": 1,
+        "id": 56
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "lineType": 3,
+    "name": "明楼",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 55
+      },
+      {
+        "cost": 1,
+        "id": 57
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "lineType": 3,
+    "name": "体育馆",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 56
+      },
+      {
+        "cost": 1,
+        "id": 58
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "lineType": 3,
+    "name": "樱花公园",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 57
+      },
+      {
+        "cost": 1,
+        "id": 59
+      },
+      {
+        "cost": 0,
+        "id": 13
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "lineType": 3,
+    "name": "儿童公园",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 58
+      },
+      {
+        "cost": 1,
+        "id": 60
+      },
+      {
+        "cost": 0,
+        "id": 95
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "lineType": 3,
+    "name": "仇毕",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 59
+      },
+      {
+        "cost": 1,
+        "id": 61
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "lineType": 3,
+    "name": "钱湖北路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 60
+      },
+      {
+        "cost": 1,
+        "id": 62
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "lineType": 3,
+    "name": "锦寓路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 61
+      },
+      {
+        "cost": 1,
+        "id": 63
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "lineType": 3,
+    "name": "四明中路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 62
+      },
+      {
+        "cost": 1,
+        "id": 64
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "lineType": 3,
+    "name": "鄞州区政府",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 63
+      },
+      {
+        "cost": 1,
+        "id": 65
+      },
+      {
+        "cost": 0,
+        "id": 110
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "lineType": 3,
+    "name": "南部商务区",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 64
+      },
+      {
+        "cost": 1,
+        "id": 66
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "lineType": 3,
+    "name": "鄞州客运总站",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 65
+      },
+      {
+        "cost": 1,
+        "id": 67
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "lineType": 3,
+    "name": "句章路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 66
+      },
+      {
+        "cost": 1,
+        "id": 68
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "lineType": 3,
+    "name": "高塘桥",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 67
+      },
+      {
+        "cost": 1,
+        "id": 69
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "lineType": 3,
+    "name": "姜山",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 68
+      },
+      {
+        "cost": 1,
+        "id": 70
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "lineType": 3,
+    "name": "狮山",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 69
+      },
+      {
+        "cost": 1,
+        "id": 71
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "lineType": 3,
+    "name": "明辉路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 70
+      },
+      {
+        "cost": 1,
+        "id": 72
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "lineType": 3,
+    "name": "朝阳",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 71
+      },
+      {
+        "cost": 1,
+        "id": 73
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "lineType": 3,
+    "name": "方桥",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 72
+      },
+      {
+        "cost": 1,
+        "id": 74
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "lineType": 3,
+    "name": "琎琳",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 73
+      },
+      {
+        "cost": 1,
+        "id": 75
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "lineType": 3,
+    "name": "南渡",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 74
+      },
+      {
+        "cost": 1,
+        "id": 76
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "lineType": 3,
+    "name": "大成东路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 75
+      },
+      {
+        "cost": 1,
+        "id": 77
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "lineType": 3,
+    "name": "金海路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 76
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "lineType": 4,
+    "name": "慈城",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 79
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "lineType": 4,
+    "name": "官山河",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 78
+      },
+      {
+        "cost": 1,
+        "id": 80
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "lineType": 4,
+    "name": "长兴路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 79
+      },
+      {
+        "cost": 1,
+        "id": 81
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "lineType": 4,
+    "name": "金山路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 80
+      },
+      {
+        "cost": 1,
+        "id": 82
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "lineType": 4,
+    "name": "奥体中心",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 81
+      },
+      {
+        "cost": 1,
+        "id": 83
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "lineType": 4,
+    "name": "洪塘中路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 82
+      },
+      {
+        "cost": 1,
+        "id": 84
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "lineType": 4,
+    "name": "洪大路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 83
+      },
+      {
+        "cost": 1,
+        "id": 85
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "lineType": 4,
+    "name": "庄桥火车站",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 84
+      },
+      {
+        "cost": 1,
+        "id": 86
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "lineType": 4,
+    "name": "丽江路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 85
+      },
+      {
+        "cost": 1,
+        "id": 87
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "lineType": 4,
+    "name": "双东路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 86
+      },
+      {
+        "cost": 1,
+        "id": 88
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "lineType": 4,
+    "name": "翠柏里",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 87
+      },
+      {
+        "cost": 1,
+        "id": 89
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "lineType": 4,
+    "name": "大卿桥",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 88
+      },
+      {
+        "cost": 1,
+        "id": 90
+      },
+      {
+        "cost": 0,
+        "id": 7
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "lineType": 4,
+    "name": "柳西",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 89
+      },
+      {
+        "cost": 1,
+        "id": 91
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "lineType": 4,
+    "name": "宁波火车站",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 90
+      },
+      {
+        "cost": 1,
+        "id": 92
+      },
+      {
+        "cost": 0,
+        "id": 38
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "lineType": 4,
+    "name": "兴宁桥西",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 91
+      },
+      {
+        "cost": 1,
+        "id": 93
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "lineType": 4,
+    "name": "兴宁桥东",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 92
+      },
+      {
+        "cost": 1,
+        "id": 94
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "lineType": 4,
+    "name": "白鹤",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 93
+      },
+      {
+        "cost": 1,
+        "id": 95
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "lineType": 4,
+    "name": "儿童公园",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 94
+      },
+      {
+        "cost": 1,
+        "id": 96
+      },
+      {
+        "cost": 0,
+        "id": 59
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "lineType": 4,
+    "name": "矮柳",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 95
+      },
+      {
+        "cost": 1,
+        "id": 97
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "lineType": 4,
+    "name": "潘火路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 96
+      },
+      {
+        "cost": 1,
+        "id": 98
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "lineType": 4,
+    "name": "嵩江东路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 97
+      },
+      {
+        "cost": 1,
+        "id": 99
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "lineType": 4,
+    "name": "南高教园区",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 98
+      },
+      {
+        "cost": 1,
+        "id": 100
+      },
+      {
+        "cost": 0,
+        "id": 112
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "lineType": 4,
+    "name": "金达南路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 99
+      },
+      {
+        "cost": 1,
+        "id": 101
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "lineType": 4,
+    "name": "小洋江",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 100
+      },
+      {
+        "cost": 1,
+        "id": 102
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "lineType": 4,
+    "name": "东钱湖",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 101
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "lineType": 5,
+    "name": "布政",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 104
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "lineType": 5,
+    "name": "张家潭",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 103
+      },
+      {
+        "cost": 1,
+        "id": 105
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "lineType": 5,
+    "name": "同德路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 104
+      },
+      {
+        "cost": 1,
+        "id": 106
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "lineType": 5,
+    "name": "石碶",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 105
+      },
+      {
+        "cost": 1,
+        "id": 107
+      },
+      {
+        "cost": 0,
+        "id": 32
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "lineType": 5,
+    "name": "雅渡",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 106
+      },
+      {
+        "cost": 1,
+        "id": 108
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "lineType": 5,
+    "name": "庙堰",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 107
+      },
+      {
+        "cost": 1,
+        "id": 109
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "lineType": 5,
+    "name": "钟公庙",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 108
+      },
+      {
+        "cost": 1,
+        "id": 110
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "lineType": 5,
+    "name": "鄞州区政府",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 109
+      },
+      {
+        "cost": 1,
+        "id": 111
+      },
+      {
+        "cost": 0,
+        "id": 64
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "lineType": 5,
+    "name": "钱湖南路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 110
+      },
+      {
+        "cost": 1,
+        "id": 112
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "lineType": 5,
+    "name": "南高教园区",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 111
+      },
+      {
+        "cost": 1,
+        "id": 113
+      },
+      {
+        "cost": 0,
+        "id": 99
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "lineType": 5,
+    "name": "下应路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 112
+      },
+      {
+        "cost": 1,
+        "id": 114
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "lineType": 5,
+    "name": "大洋江",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 113
+      },
+      {
+        "cost": 1,
+        "id": 115
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "lineType": 5,
+    "name": "泗港",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 114
+      },
+      {
+        "cost": 1,
+        "id": 116
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "lineType": 5,
+    "name": "曹隘",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 115
+      },
+      {
+        "cost": 1,
+        "id": 117
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "lineType": 5,
+    "name": "柳隘",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 116
+      },
+      {
+        "cost": 1,
+        "id": 118
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "lineType": 5,
+    "name": "海晏北路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 117
+      },
+      {
+        "cost": 1,
+        "id": 119
+      },
+      {
+        "cost": 0,
+        "id": 16
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "lineType": 5,
+    "name": "民安东路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 118
+      },
+      {
+        "cost": 1,
+        "id": 120
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "lineType": 5,
+    "name": "会展中心",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 119
+      },
+      {
+        "cost": 1,
+        "id": 121
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "lineType": 5,
+    "name": "院士路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 120
+      },
+      {
+        "cost": 1,
+        "id": 122
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "lineType": 5,
+    "name": "盎孟港",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 121
+      },
+      {
+        "cost": 1,
+        "id": 123
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "lineType": 5,
+    "name": "三官堂",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 122
+      },
+      {
+        "cost": 1,
+        "id": 124
+      },
+      {
+        "cost": 0,
+        "id": 48
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "lineType": 5,
+    "name": "兴庄路",
+    "adjacency": [
+      {
+        "cost": 1,
+        "id": 123
+      }
+    ]
+  }
+]
